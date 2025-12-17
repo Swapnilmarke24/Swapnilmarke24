@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swapnilmarke24
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning frontend Development
+- 🌱 I’m currently searching for fullstack Development role.
 
 
 <!---
